@@ -9,9 +9,9 @@ home: https://bioinformaticsdotca.github.io/INR_2023
 description: Introduction R Schedule
 ---
 
-| | **Day 1** || **Day 2** |  
+| | Monday, June 26 || Tuesday, June 27 |
 | :---:| :---: | :---: | :---: |   
-| | **Monday, June 26** || **Tuesday, June 27** |
+| Time (Eastern) | Module | Time (Eastern) | Module | 
 | 8:30| <font color="green">Arrivals & Check-in</font> |8:30| <font color="green">Arrivals</font> |
 | 9:00| <font color="purple">Welcome (Michelle Brazas)</font> |9:00| <font color="purple">Day 2 Review & Module 3: Loops and functions (Frances Wong)</font> |
 | 9:30| <font color="purple">Module 1: Getting to Know R (Frances Wong)</font> | 10:30| <font color="green">Break (30min)</font> |
