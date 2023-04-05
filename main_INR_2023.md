@@ -19,6 +19,8 @@ endDate: 2023-06-27
 
 # Welcome <a id="welcome"></a>
 
+## This workshop page is under construction. Please note that some links may be out of date.
+
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2023_schedule)
 
 Meet your faculty [here](https://drive.google.com/file/d/1Qj9GCzzx9Z7EahMesHG4m20iHuXWxNg6/view?usp=sharing) 
