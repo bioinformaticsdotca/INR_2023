@@ -19,93 +19,59 @@ endDate: 2023-06-27
 
 # Welcome <a id="welcome"></a>
 
-## This workshop page is under construction. Please note that some links may be out of date.
+## This workshop page is under construction. Please note that some links may be missing or out of date.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2023_schedule)
 
-Meet your faculty [here](https://drive.google.com/file/d/1Qj9GCzzx9Z7EahMesHG4m20iHuXWxNg6/view?usp=sharing) 
+Meet your faculty [here]() 
 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here](https://forms.gle/1LEsZRzuuiEY7nX19).  
+Pre-work including programs to install can be found [here]().  
 
 ***
 
 # Class Photo
 
-Comming soon
+Coming soon!
+
+***
 
 # Day 1 <a id="day1"></a>
 
-***
-
 ## Welcome
 
-*<font color="#827e9c">Rachade / Francis </font>*
+*<font color="#827e9c">Nia Hughes</font>*
  
- ## Module 1
+## Module 1: Getting to Know R
  
- *<font color="#827e9c">Lauren Erdman</font>* 
+*<font color="#827e9c">Frances Wong</font>*  
  
- [Slides](https://drive.google.com/file/d/13tSS5kcFf7iCaIz_Cp1qbV0mDVFEGYJ_/view?usp=sharing)
+[Module 1 Slides]()  
 
- [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
- 
- [Master script](https://drive.google.com/file/d/1JBxZD6Xb2vKETA-5a-0S9LKZmwA3Io97/view?usp=sharing)
- 
-### Assignment 1 
+## Module 2: Exploring Your Data In R
 
-[Starter script](https://drive.google.com/file/d/1NLsnVHOToG4OY9pWFrwYu60JG6NP3NjP/view?usp=sharing)
+*<font color="#827e9c">Frances Wong</font>*  
 
-[Data](https://drive.google.com/file/d/1l3oCfJrn2ztoUjkpkctTr5_WGjFvD9JQ/view?usp=sharing)
-
-[Solution](https://drive.google.com/file/d/1ULynyWmbZm035qhG88sQzYt4sEGXGADx/view?usp=sharing)
-
-## Module 2
-
-[Slides](https://drive.google.com/file/d/149V1hnFRZiAt5_tqDwVJNeI1baEBSVKh/view?usp=sharing)
-
-[Starter script](https://drive.google.com/file/d/1w31LrBcjFJ46iCo992sIO01BbhKHAG7-/view?usp=sharing)
-
-[Data](https://drive.google.com/file/d/1XeP5vWIv0uJXS8kvJT7CXa3b6APpKU3T/view?usp=sharing)
-
-[Master script](https://drive.google.com/file/d/148vakGizrsq_7N69LfdXJbmLSlXsemDh/view?usp=sharing)
-
-### Assignment 2 
-
-[Starter script](https://drive.google.com/file/d/1PBkXgGVWOx9yRK6XNECcCstcDCfGENh3/view?usp=sharing)
-
-[Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
-
-## Project
-
-[Slides](https://drive.google.com/file/d/1H2EHnOBeMWyvkcAVcju8DddyExQuHXVm/view?usp=sharing)
-
-
-
-
-***
+[Module 2 Slides]()  
 
 # Day 2 <a id="day2"></a>
 
-## Modules 3 and 4
+## Module 3: Loops and Functions
 
-*<font color="#827e9c">Lauren Erdman</font>* 
+*<font color="#827e9c">Frances Wong</font>* 
 
-[Slides](https://drive.google.com/file/d/1Ud6FXXjyTgy2ueg8Xkcbghz2Q0Jc15eP/view?usp=sharing)
+[Module 3 Slides]()  
 
-[Master script](https://drive.google.com/file/d/18ZAeeEOKnnNdKHVKr1hbHuqEV-vQnBJq/view?usp=sharing)
+## Module 4: Linear Regression
 
+*<font color="#827e9c">Frances Wong</font>* 
 
-## Project 
+[Module 4 Slides]()  
 
-[Slides](https://drive.google.com/file/d/1H2EHnOBeMWyvkcAVcju8DddyExQuHXVm/view?usp=sharing)
+## Short Project
 
-[Day 2 data](https://drive.google.com/file/d/1qKTRjc4zXhJcXZosO8rME-D8MDKo_91i/view?usp=sharing)
+*<font color="#827e9c">Frances Wong</font>* 
 
-[Solution](https://drive.google.com/file/d/1fT4KUSTJd3ST0kCp067q7gy3O4V7UMTY/view?usp=sharing)
-
-
-
-
+[Short Project]()
