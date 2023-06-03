@@ -3,7 +3,7 @@ layout: tutorial_page
 permalink: /INR_2023_schedule
 title: Intro R
 header1: Workshop Pages for Students
-header2: Introduction to R
+header2: Introduction to R 2023
 image: /site_images/CBW_introtoR-icon.jpg
 home: https://bioinformaticsdotca.github.io/INR_2023
 description: Introduction R Schedule
