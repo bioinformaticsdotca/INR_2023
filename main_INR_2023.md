@@ -28,7 +28,7 @@ Meet your faculty [here]()
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here]().  
+Pre-work including programs to install can be found [here](https://forms.gle/HpYdmZLJRjPW2CHa7).  
 
 ***
 
