@@ -23,7 +23,7 @@ endDate: 2023-06-27
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2023_schedule)
 
-Meet your faculty [here]() 
+Meet your faculty [here](https://drive.google.com/file/d/1LasXgLz9bOrmi2P3v4S8GDyEsV1XXH3Q/view?usp=sharing)  
 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
