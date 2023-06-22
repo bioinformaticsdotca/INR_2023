@@ -17,7 +17,7 @@ description: Introduction R Schedule
 |     10:30      |                   <font color="green">Break (15 min)</font>                   |     10:15      |          <font color="purple">Module 3: Loops and functions (continued)</font>          |
 |     10:45      |      <font color="purple">Module 1: Getting to Know R (continued)</font>      |     11:00      |                        <font color="green">Break (15 min)</font>                        |
 |     11:15      |                   <font color="green">Break (15 min)</font>                   |     11:15      |          <font color="purple">Module 3: Loops and functions (continued)</font>          |
-|     11:30      |      <font color="purple">Module 1: Getting to Know R (continued)</font>      |     12:00      |                          <font color="green">Lunch (1h)</font>                          |
+|     11:30      |      <font color="purple">Module 1: Getting to Know R (continued)</font>      |     12:00      |                          <font color="green">Class Photo + Lunch (1h)</font>                          |
 |     12:00      |                     <font color="green">Lunch (1h)</font>                     |     13:00      |         <font color="purple">Module 4: Linear regression (Frances Wong)</font>          |
 |     13:00      | <font color="purple">Module 2: Exploring your data in R (Frances Wong)</font> |     14:00      |                        <font color="green">Break (15 min)</font>                        |
 |     14:00      |                   <font color="green">Break (15min)</font>                    |     14:15      |           <font color="purple">Module 4: Linear regression (continued)</font>           |
