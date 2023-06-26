@@ -35,7 +35,7 @@ Coming soon!
  
 *<font color="#827e9c">Frances Wong</font>*  
 
-[Day 1 Slides](https://drive.google.com/file/d/15V3vs38Hh9aom-vGI0KUg6CCi7Ze16N6/view?usp=drive_link)
+[Day 1 Slides](https://drive.google.com/file/d/15V3vs38Hh9aom-vGI0KUg6CCi7Ze16N6/view?usp=drive_link)  
 [Day 1 Rmd File](https://drive.google.com/file/d/1SuW3bGPn5BgnDUxVGDP_8840c38o0dvu/view?usp=drive_link)  
 [Abalone Dataset](https://drive.google.com/file/d/1guZml8cGQNy6eKvPbhH_5Ep009ufDgB0/view?usp=drive_link)  
 [Water Potability Dataset](https://drive.google.com/file/d/1S18wAyZ87KirFbyTZuZKuQnBkenWyMeS/view?usp=drive_link)  
