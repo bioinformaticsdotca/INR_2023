@@ -8,18 +8,11 @@ yearName: Introduction to R 2023
 image: /site_images/CBW_introtoR-icon.jpg
 keywords: Data handling, using R syntax, scientific computational work
 description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
-instructors: Lauren Erdman
-length: 2 days
-status: Completed
-audience: Graduates, postgraduates, Principle Investigators, Researchers
-location: Online
 startDate: 2023-06-26
 endDate: 2023-06-27
 ---
 
 # Welcome <a id="welcome"></a>
-
-## This workshop page is under construction. Please note that some links may be missing or out of date.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2023_schedule)
 
@@ -39,39 +32,19 @@ Coming soon!
 ***
 
 # Day 1 <a id="day1"></a>
-
-## Welcome
-
-*<font color="#827e9c">Nia Hughes</font>*
- 
-## Module 1: Getting to Know R
  
 *<font color="#827e9c">Frances Wong</font>*  
- 
-[Module 1 Slides]()  
 
-## Module 2: Exploring Your Data In R
+[Day 1 Slides](https://drive.google.com/file/d/15V3vs38Hh9aom-vGI0KUg6CCi7Ze16N6/view?usp=drive_link)
+[Day 1 Rmd File](https://drive.google.com/file/d/1SuW3bGPn5BgnDUxVGDP_8840c38o0dvu/view?usp=drive_link)  
+[Abalone Dataset](https://drive.google.com/file/d/1guZml8cGQNy6eKvPbhH_5Ep009ufDgB0/view?usp=drive_link)  
+[Water Potability Dataset](https://drive.google.com/file/d/1S18wAyZ87KirFbyTZuZKuQnBkenWyMeS/view?usp=drive_link)  
+
+# Day 2 <a id="day2"></a>  
 
 *<font color="#827e9c">Frances Wong</font>*  
 
-[Module 2 Slides]()  
-
-# Day 2 <a id="day2"></a>
-
-## Module 3: Loops and Functions
-
-*<font color="#827e9c">Frances Wong</font>* 
-
-[Module 3 Slides]()  
-
-## Module 4: Linear Regression
-
-*<font color="#827e9c">Frances Wong</font>* 
-
-[Module 4 Slides]()  
-
-## Short Project
-
-*<font color="#827e9c">Frances Wong</font>* 
-
-[Short Project]()
+[Day 2 Slides](https://drive.google.com/file/d/1SeJL-Kbda2PiCHNC_cczjNQcoW-DYy_F/view?usp=drive_link)  
+[Day 2 Rmd File](https://drive.google.com/file/d/1u_nCHdp4jCpdpGZJhuIVieDyYyyITMW6/view?usp=drive_link)  
+[Diamonds Dataset](https://drive.google.com/file/d/1kGQSZIHxTGexL5ASEz8Y8WcHQjdajBfN/view?usp=drive_link)  
+[Stroke Dataset](https://drive.google.com/file/d/1ZaG2sc4sJkQLJ0AfelotzLg2VF9378QT/view?usp=drive_link)
