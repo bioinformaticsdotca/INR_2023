@@ -27,7 +27,7 @@ Pre-work including programs to install can be found [here](https://forms.gle/HpY
 
 # Class Photo
 
-Coming soon!
+![PNA23 Class Photo](https://drive.google.com/uc?export=view&id=1NP7ZrHxI5p0xaS76ours7ZF9N1WAAKCc)
 
 ***
 
